@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **yerkko/yerkko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello 🐧
+
+Learning C++
+Ask me about code optimization, math, video game development, data structures and algorithms.
+Don't ask me about snakes or web stuff (please 😢)
