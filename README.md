@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 Maybe one day I'll make my repositories public. Who knows? 
 
-* Currently learning C++
+* Currently learning C++ and graphics programming
 * Ask me about code optimization, math, video game development, data structures and algorithms.
-* Don't ask me about snakes or web stuff (please 😢)
+* Don't ask me about web stuff (please 😢)
