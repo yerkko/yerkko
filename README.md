@@ -18,8 +18,15 @@ Here are some ideas to get you started:
 
 Maybe one day I'll make my repositories public. Who knows? 
 
-* Currently learning C++ and graphics programming. Lately interested in Vulkan.
+* Currently learning C++, UE4 and graphics programming. Lately interested in Vulkan.
 * Ask me about code optimization, math, video game development, data structures and algorithms.
 * Don't ask me about web stuff (please 😢)
 
-(Don't mess with cross product gang)
+### Skills:
+
+* Fluency in C/C++/C#, Python 
+* Proficiency in Unity 
+* Strong mathematical background (data structures and algorithms, vector calculus, linear algebra, statistics)
+* Experience in ML and computer vision
+* Passion for games and performance-oriented code
+* Experience writing music for various independent game projects
