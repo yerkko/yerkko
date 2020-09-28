@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 ### Hello 🐧
 
-Currently learning C++, UE4 and graphics programming. Lately interested in Vulkan. Huge nerd for all-things low-level.
+Currently learning C++, UE4 and graphics programming, lately interested in Vulkan. Huge nerd for all-things low-level. 
+
+I love art-enabling technology.
 
 ### Ask me about:
 
