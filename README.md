@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 
 ### Hello 🐧
 
-Currently learning C++, UE4 and graphics programming, lately interested in Vulkan. Huge nerd for all-things low-level. 
-
-I love art-enabling technology.
-
-### Ask me about:
-
-* C/C++/C#, Python 
-* Unity Game Engine
-* Data structures and algorithms, vector calculus, linear algebra, statistics, etc.
-* ML and computer vision
-* Game programming and performance-oriented code
-
+* C++, C#, Python, C, Haxe, AI, C.G,...
+* UE4, Unity
+* OpenGL
