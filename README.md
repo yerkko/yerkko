@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ### Hello 🐧
 
-* C++, C#, Python, C, Haxe, AI, C.G,...
+* C++, C#, Python, C, JS/TS
 * UE4, Unity
 * OpenGL
+* Lately interested in Golang 🤔
